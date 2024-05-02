@@ -4,6 +4,4 @@ Hao Cheng, Hejie Xu, Hongji Shang, Xueqian Wang, Houde Liu, and Bin Liang, "Orie
 
 Paper: https://ieeexplore.ieee.org/document/9812289
 
-Video: https://youtu.be/tm9aPsXuPTo
-
-       https://www.bilibili.com/video/BV12v411h79c
+Video: https://youtu.be/tm9aPsXuPTo    https://www.bilibili.com/video/BV12v411h79c
